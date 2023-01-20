@@ -1,11 +1,18 @@
 <!--Perfil Github
 
-Developer mobile
+
+
+Developer mobile-->
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&width=435&lines=Hello+my+name+is+Leonardo+Rodrigues)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCE3EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Hi 👋 My name is Leonardo
-==========================
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+<!--Hi 👋 My name is Leonardo
+==========================-->
 
 Front-end Developer
 -----------------------------
@@ -63,7 +70,7 @@ src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=f
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=peguimasid&bg_color=101820&color=DCE3EC&line=DCE3EC&point=ffffff&area_color=DCE3EC&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=DCE3ECed&hide=css,objective-c,html&text_color=DCE3EC&icon_color=3382ed&bg_color=DCE3EC&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+<a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=DCE3ECed&hide=css,objective-c,html&text_color=DCE3EC&icon_color=3382ed&bg_color=DCE3EC&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--### Support Me
 
