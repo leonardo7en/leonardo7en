@@ -1,12 +1,11 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=bebas+neue+pro&color=DCE3EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=bebas+neue+pro&color=DCE3EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)-->
 
 
 
 
-
-<!--Hi 👋 My name is Leonardo
+Hi 👋 My name is Leonardo
 ==========================
 
 Front-end Developer
@@ -24,7 +23,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 * ⚡  I love sports and my favorite is 
 
 <a href="https://www.github.com/leonardo7en" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=for-the-badge&color=101820&labelColor=DCE3EC" /></a>-->
+src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=for-the-badge&color=101820&labelColor=DCE3EC" /></a>
 
 ### Skills
 
@@ -33,10 +32,12 @@ src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=f
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<img width="36" height="36"alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-<img width="36" height="36"alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+
+
      
 <!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
@@ -58,12 +59,11 @@ src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=f
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>-->
-
-<!--### Socials
+### Socials
 
 <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
-<a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/leonardo7en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/leonardo7en/-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
 <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
