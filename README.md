@@ -1,32 +1,8 @@
-<!--[Typing SVG](https://readme-typing-svg.herokuapp.com/?font=bebas+neue+pro&color=DCE3EC&size=35&true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)-->
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&background=FFDEDB00&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-
-
-
-
-<!--Hi 👋 My name is Leonardo
-==========================
-
-Front-end Developer
------------------------------
-
-I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
-
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
-
-* 🌍  I'm based in São Paulo, Brazil. 
-* ✉️  You can contact me at [leonardo.rodrigues7en@outlook.com](mailto:leonardo.rodrigues7en@outlook.com)
-* 🚀  Looking for the first opportunity. 
-* 🧠  I'm learning Advanced Javascript.
-* 🤝  I'm open to collaborating on projects that have a high impact in peoples lives
-* ⚡  I love sports and my favorite is 
-
-<a href="https://www.github.com/leonardo7en" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=for-the-badge&color=101820&labelColor=DCE3EC" /></a>-->
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)-->
 
 ### Skills
 
@@ -62,6 +38,7 @@ src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=f
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>-->
+     
 ### Socials
 
 <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
@@ -82,6 +59,6 @@ src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=f
 
 <a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=leonardo7en&layout=compact&title_color=DCE3ECed&hide=css,objective-c,html&text_color=DCE3EC&icon_color=3382ed&bg_color=101820&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
+<!--### Support Me
 
 <a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
