@@ -1,11 +1,7 @@
-
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&background=FFDEDB00&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
+=======================================================
 
 ### Skills
-
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
