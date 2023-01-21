@@ -1,5 +1,6 @@
 <!--[Typing SVG](https://readme-typing-svg.herokuapp.com/?font=bebas+neue+pro&color=DCE3EC&size=35&true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)-->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&background=FFDEDB00&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
@@ -25,7 +26,7 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 
 <a href="https://www.github.com/leonardo7en" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=for-the-badge&color=101820&labelColor=DCE3EC" /></a>-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)-->
 
 ### Skills
 
