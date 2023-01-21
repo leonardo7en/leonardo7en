@@ -1,18 +1,13 @@
-<!--Perfil Github
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=bebas+neue+pro&color=DCE3EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 
-Developer mobile-->
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&width=435&lines=Hello+my+name+is+Leonardo+Rodrigues)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DCE3EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <!--Hi 👋 My name is Leonardo
-==========================-->
+==========================
 
 Front-end Developer
 -----------------------------
@@ -29,13 +24,21 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 * ⚡  I love sports and my favorite is 
 
 <a href="https://www.github.com/leonardo7en" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=for-the-badge&color=101820&labelColor=DCE3EC" /></a>
+src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=for-the-badge&color=101820&labelColor=DCE3EC" /></a>-->
 
 ### Skills
 
+
 <p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<img width="36" height="36"alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+     
+<!-- <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="Typescript" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
@@ -54,24 +57,27 @@ src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=f
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
-</p>
+</p>-->
 
-### Socials
+<!--### Socials
 
-<p align="left"> <a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/leonardo7en/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+<a href="https://www.github.com/peguimasid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/guilhermo-masid-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+<a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=peguimasid&show_icons=true&hide=&count_private=true&title_color=DCE3EC&text_color=DCE3EC&icon_color=DCE3ECed&bg_color=101820&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/leonardo7en"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=leonardo7en&show_icons=true&hide=&count_private=true&title_color=DCE3EC&text_color=DCE3EC&icon_color=DCE3ECed&bg_color=101820&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo7en&stroke=ffffff&background=101820&ring=DCE3EC&fire=DCE3EC&currStreakNum=DCE3EC&currStreakLabel=DCE3EC&sideNums=DCE3EC&sideLabels=DCE3EC&dates=DCE3EC&hide_border=true" /></a>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=peguimasid&stroke=ffffff&background=101820&ring=DCE3EC&fire=DCE3EC&currStreakNum=DCE3EC&currStreakLabel=DCE3EC&sideNums=DCE3EC&sideLabels=DCE3EC&dates=DCE3EC&hide_border=true" /></a>
+<a href="http://www.github.com/peguimasid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=leonardo7en&bg_color=101820&color=DCE3EC&line=DCE3EC&point=ffffff&area_color=DCE3EC&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph%22%20alt=%22GitHub%20Commits%20Graph" /></a>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=peguimasid&bg_color=101820&color=DCE3EC&line=DCE3EC&point=ffffff&area_color=DCE3EC&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=leonardo7en&layout=compact&title_color=DCE3ECed&hide=css,objective-c,html&text_color=DCE3EC&icon_color=3382ed&bg_color=101820&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=peguimasid&layout=compact&title_color=DCE3ECed&hide=css,objective-c,html&text_color=DCE3EC&icon_color=3382ed&bg_color=DCE3EC&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Support Me
 
-<!--### Support Me
-
-<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>-->
+<a href="https://www.buymeacoffee.com/peguimasid"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150" /></a>
