@@ -1,19 +1,20 @@
-
-
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=bebas+neue+pro&color=DCE3EC&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)-->
-
+<!--[Typing SVG](https://readme-typing-svg.herokuapp.com/?font=bebas+neue+pro&color=DCE3EC&size=35&true&width=1000&lines=HELLO,+MY+NAME+is+Leonardo+Rodrigues;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)-->
 
 
 
-Hi 👋 My name is Leonardo
+
+
+
+
+<!--Hi 👋 My name is Leonardo
 ==========================
 
 Front-end Developer
 -----------------------------
 
-<!--I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
+I'm a 19 years old developer and hacking since I was 16. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front and back-end development, making applications that impact the life of thousands of users.
 
-I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).-->
+I am also a student at [42 | Rio](https://42.rio/), a Software Engineering school that have [47 campus in 26 countries](https://www.42network.org/42-schools/).
 
 * 🌍  I'm based in São Paulo, Brazil. 
 * ✉️  You can contact me at [leonardo.rodrigues7en@outlook.com](mailto:leonardo.rodrigues7en@outlook.com)
@@ -23,7 +24,8 @@ I am also a student at [42 | Rio](https://42.rio/), a Software Engineering schoo
 * ⚡  I love sports and my favorite is 
 
 <a href="https://www.github.com/leonardo7en" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=for-the-badge&color=101820&labelColor=DCE3EC" /></a>
+src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=for-the-badge&color=101820&labelColor=DCE3EC" /></a>-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I+am+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)
 
 ### Skills
 
@@ -71,7 +73,8 @@ src="https://img.shields.io/github/followers/leonardo7enasid?logo=github&style=f
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/leonardo7en"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=leonardo7en&show_icons=true&hide=&count_private=true&title_color=DCE3EC&text_color=DCE3EC&icon_color=DCE3ECed&bg_color=101820&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a>
+<a href="http://www.github.com/leonardo7en"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=leonardo7en&show_icons=true&hide=&count_private=true&title_color=DCE3EC&text_color=DCE3EC&icon_color=DCE3ECed&bg_color=101820&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a> 
+
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo7en&stroke=ffffff&background=101820&ring=DCE3EC&fire=DCE3EC&currStreakNum=DCE3EC&currStreakLabel=DCE3EC&sideNums=DCE3EC&sideLabels=DCE3EC&dates=DCE3EC&hide_border=true" /></a>
 
 <a href="http://www.github.com/peguimasid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=leonardo7en&bg_color=101820&color=DCE3EC&line=DCE3EC&point=ffffff&area_color=DCE3EC&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph%22%20alt=%22GitHub%20Commits%20Graph" /></a>
