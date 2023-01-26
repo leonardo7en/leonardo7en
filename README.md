@@ -51,11 +51,11 @@
 
 <a href="http://www.github.com/leonardo7en"><img src="https://github-readme-stats-peguimasid.vercel.app/api?username=leonardo7en&show_icons=true&hide=&count_private=true&title_color=DCE3EC&text_color=DCE3EC&icon_color=DCE3ECed&bg_color=101820&hide_border=true&show_icons=true" alt="peguimasid's GitHub stats" /></a> 
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo7en&stroke=ffffff&background=101820&ring=DCE3EC&fire=DCE3EC&currStreakNum=DCE3EC&currStreakLabel=DCE3EC&sideNums=DCE3EC&sideLabels=DCE3EC&dates=DCE3EC&hide_border=true" /></a>
+<a href="http://www.github.com/leonardo7en"><img src="https://github-readme-streak-stats.herokuapp.com/?user=leonardo7en&stroke=ffffff&background=101820&ring=DCE3EC&fire=DCE3EC&currStreakNum=DCE3EC&currStreakLabel=DCE3EC&sideNums=DCE3EC&sideLabels=DCE3EC&dates=DCE3EC&hide_border=true" /></a>
 
-<a href="http://www.github.com/peguimasid"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=leonardo7en&bg_color=101820&color=DCE3EC&line=DCE3EC&point=ffffff&area_color=DCE3EC&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph%22%20alt=%22GitHub%20Commits%20Graph" /></a>
+<a href="http://www.github.com/leonardo7en"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=leonardo7en&bg_color=101820&color=DCE3EC&line=DCE3EC&point=ffffff&area_color=DCE3EC&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph%22%20alt=%22GitHub%20Commits%20Graph" /></a>
 
-<a href="https://github.com/peguimasid" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=leonardo7en&layout=compact&title_color=DCE3ECed&hide=css,objective-c,html&text_color=DCE3EC&icon_color=3382ed&bg_color=101820&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/leonardo7en" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=leonardo7en&layout=compact&title_color=DCE3ECed&hide=css,objective-c,html&text_color=DCE3EC&icon_color=3382ed&bg_color=101820&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--### Support Me
 
