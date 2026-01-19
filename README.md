@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&background=FFDEDB00&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I'm+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=bebas+neue+pro&pause=1000&color=DCE3EC&size=35&background=FFDEDB00&width=1000&lines=Hello,+My+name+is+Leonardo;I'm+29+years+old;I'm+from+Campinas,+SP;I+study+Mobile+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 =======================================================
 
 <!--### Skills 
@@ -38,10 +38,10 @@
 <a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
 </p>-->
      
-### Socials
+<!--### Socials
 
  <!--<a href="https://discord.com/users/661437172699889684" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>-->
-<a href="https://www.github.com/leonardo7en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
+<!--<a href="https://www.github.com/leonardo7en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> 
 <a href="https://www.linkedin.com/in/leonardo7en/-494677b8" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a href="https://www.instagram.com/leo7en/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="32" height="32" alt="instagram logo"  />
@@ -49,7 +49,7 @@
 <!--<a href="https://www.stackoverflow.com/users/13367336/guilhermo-masid" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/c/UCTF5MfUsa-9dFCOHFTA9xzw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>-->
 
-### Badges
+<!--### Badges
 
 <b>My GitHub Stats</b>
 
