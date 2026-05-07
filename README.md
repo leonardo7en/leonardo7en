@@ -1,54 +1,103 @@
-# 👋 Hello, I'm Leonardo
+# 👋 Hello, I'm Leonardo Rodrigues
 
-Technology-focused professional transitioning into the tech field, with a background in processes, data and systems.  
-Currently pursuing a **Bachelor’s degree in Business Administration**, working at the intersection of **business and technology**.
+ServiceNow-focused professional transitioning into enterprise technology, with a background in business operations, processes and corporate systems.
 
-My experience comes from operational, commercial and administrative environments within large organizations, where I developed a strong **process-oriented and systems-driven mindset**.  
-This journey naturally led me to work with **data analysis, digital tools and technology applied to business decision-making**.
+Currently pursuing a Bachelor's degree in Business Administration while developing hands-on projects using the ServiceNow platform, focusing on workflow automation, ITSM concepts and process optimization.
 
-I am currently developing projects involving **data analysis, reporting, automation and web solutions**, always focused on solving real-world business problems through structured and scalable approaches.
+My previous experience in commercial, operational and administrative environments helped me build a strong process-oriented mindset, connecting business needs with technology-driven solutions.
 
 ---
 
-## 🧠 Core Focus
-- Data analysis and reporting  
-- Process optimization and operational efficiency  
-- Business and systems analysis  
-- Decision support through data and digital tools  
+# 🚀 Current Focus
+
+- ServiceNow Platform
+- Workflow Automation
+- ITSM Concepts
+- Process Optimization
+- Business Systems
+- JavaScript for ServiceNow
+- Data & Operational Analysis
 
 ---
 
-## 🛠 Tools & Technologies
-- **Data & Analytics:** Excel, Power BI, SQL  
-- **Programming & Scripting:** Python  
-- **Web:** HTML, CSS, JavaScript, WordPress  
-- **Design & UX:** Figma  
-- **Version Control:** Git & GitHub  
+# 🛠 Technologies & Tools
+
+## ServiceNow
+- App Engine Studio
+- Flow Designer
+- Service Catalog
+- Service Portal
+- Import Sets
+- Transform Maps
+- Roles & ACLs
+- Notifications
+- REST Integrations
+
+## Data & Analytics
+- Excel
+- Power BI
+- SQL
+
+## Programming & Web
+- JavaScript
+- HTML
+- CSS
+- WordPress
+
+## Tools
+- Git & GitHub
+- VS Code
+- Figma
+- TOTVS ERP
 
 ---
 
-## 📂 Projects
-My projects focus on **data-driven solutions, digital products and visual identity**, developed for study, freelance and professional contexts.
+# 📂 Featured Project
 
-🔗 **Full portfolio:** https://leo7en.com
+## Toy Store — ServiceNow Application
+
+End-to-end ServiceNow application developed using:
+- App Engine Studio
+- Flow Designer
+- Service Catalog
+- Service Portal
+- REST API Integration
+- PAR Analytics
+
+Features include:
+- Order management workflow
+- Approval process
+- Custom portal experience
+- Role-based access control
+- Automated notifications
+- Dashboard and reporting
+
+🔗 Project repository:
+[Add repository link here]
 
 ---
 
-## 🤝 How I Work
-- Strong business-oriented mindset  
-- Structured and analytical problem-solving  
-- Clear communication between technical and non-technical contexts  
-- Continuous learning and adaptability  
+# 🧠 Professional Strengths
+
+- Business-oriented mindset
+- Process analysis
+- Operational understanding
+- Cross-functional communication
+- Structured problem-solving
+- Continuous learning
 
 ---
 
-## 🌍 Languages
-- Portuguese: Native  
-- English: Intermediate  
-- Spanish: Basic  
+# 🌍 Languages
+
+- Portuguese — Native
+- English — Intermediate
+- Spanish — Basic
 
 ---
 
-## 🔗 Connect with Me
-- **LinkedIn:** https://linkedin.com/in/leonardo7en  
-- **Portfolio:** https://leo7en.com
+# 🔗 Connect with Me
+
+- LinkedIn: https://linkedin.com/in/leonardo7en
+- Portfolio: https://leo7en.com
+- GitHub: https://github.com/leonardo7en
